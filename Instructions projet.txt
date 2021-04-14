@@ -1,0 +1,9 @@
+Projet: Création d'un espace membre
+l'utilisateur va pouvoir créer un compte, se connecter et se déconnecter.
+
+- Créer nos pages (2 pages différentes: une pour la connexion et une pour l'inscription
+- créer nos formulaires (2 pages: un pour inscription et un pour connexion)
+- Créer nos tables (tableau utilisateur pour les données)
+- Traiter les données que nous allons recevoir 
+- Connecter un utilisateur
+- Déconnecter
