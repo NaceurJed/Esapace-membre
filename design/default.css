@@ -69,7 +69,10 @@ body,html{height:100%;min-height:100%;overflow:hidden;}
 html{
 	font-family: arial;
 	font-size: 18px;
-	background-color: #ECECEC; 
+	/*background-color: #ECECEC; */
+	background-image: url(../images/salle.jpg);
+	background-size: cover;
+
 }
 
 body{
@@ -103,7 +106,7 @@ a{
 
 header{
 	text-align: center;
-	background-color: #2c3e50;
+	background-image: url(../images/plaque.jpg);
 	padding: 10px;
 }
 
@@ -119,6 +122,15 @@ header h1{
 form{
 	text-align: left;
 	display: inline-block;
+	background-image: url(../images/metal.jpg);
+	background-position: center;
+	/*opacity: 0.5;*/
+    padding: 20px;
+    border-radius: 10px;
+}
+
+p{
+	color: white;
 }
 
 #button{
